@@ -1,8 +1,8 @@
-#ALPHABIT.co (LPH)
+ALPHABIT.co (LPH)
 
-#WHITEPAPER
+WHITEPAPER
 
-#Total Supply: 50,000,000 LPH
+Total Supply: 50,000,000 LPH
 
 
 Introduction to ALPHABIT.co (LPH):
